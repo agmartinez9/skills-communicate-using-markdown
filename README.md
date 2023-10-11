@@ -1,7 +1,8 @@
 <header>
 # <h1> This is a test</h1>
   <h2>This is a smaller test</h2>
-  <h3>Thi is an even smaller test</h3>
+  <h3>This is an even smaller test</h3>
+  (https://octodex.github.com/images/bewitchedtocat.jpg)
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
